@@ -1,8 +1,10 @@
-#NBABot Data
+**NBABot Data**
+
 This repository holds historical and current team data from the NBA. It is used in NBABot's development as a resource to provide better data. Included currently is:
 - Team Data (Logos, Arenas, Colors, Locations) from every NBA Champion and current NBA Team.
 - League History, including Champions and MVPs.
 
+<<<<<<< HEAD
 *There is more on the way, though.*
 
 # NBA Regular Endpoints -- Can't find all these though.
@@ -35,3 +37,6 @@ This repository holds historical and current team data from the NBA. It is used 
 - `__date__` in form of `mmddyyyy`
 - `__gameId__` I'm not quite sure about, though.
 
+=======
+*There is more on the way, though.* If you'd like to contribute, contact JSTN#0666 on Discord.
+>>>>>>> master
