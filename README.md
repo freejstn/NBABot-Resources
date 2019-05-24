@@ -4,4 +4,4 @@ This repository holds historical and current team data from the NBA. It is used 
 - Team Data (Logos, Arenas, Colors, Locations) from every NBA Champion and current NBA Team.
 - League History, including Champions and MVPs.
 
-*There is more on the way, though.*
+*There is more on the way, though.* If you'd like to contribute, contact JSTN#0666 on Discord.
